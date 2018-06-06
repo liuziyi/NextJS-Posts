@@ -5,6 +5,7 @@
   - [Ethereum and Solidity: The Complete Developer's Guide (Section 7), Udemy](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/learn/v4/content)
   - [BUILDING A BLOG WITH NEXT.JS](https://timber.io/blog/building-a-blog-with-next-js/)
   - [Semantic UI](https://semantic-ui.com)
+  - [JSONPlaceholder](https://jsonplaceholder.typicode.com)
   - [ReactJS: Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
   - [Dynamic Routes for Next.js](https://github.com/fridays/next-routes)
 
